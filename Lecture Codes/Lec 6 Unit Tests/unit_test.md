@@ -1,4 +1,5 @@
-<h2>
+
+<h1>
 ** "test" Folder **
 </h1>  
 <ul>
@@ -10,3 +11,7 @@
   <ul>
   -- Run in terminal 'pytest Test' - runs all the test files in the "test" folder at once.
 </ul>
+
+<h2>
+  <a href= "https://cs50.harvard.edu/python/2022/notes/5/" target="_blank"> ** Lecture Notes ** </a>
+</h2>  
