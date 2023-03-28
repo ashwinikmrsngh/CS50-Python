@@ -13,5 +13,5 @@
 </ul>
 
 <h2>
-  <a href= "https://cs50.harvard.edu/python/2022/notes/5/" target="_blank"> ** Lecture Notes ** </a>
+  <a href="https://cs50.harvard.edu/python/2022/notes/5/" target="_blank"> ** Lecture Notes ** </a>
 </h2>  
